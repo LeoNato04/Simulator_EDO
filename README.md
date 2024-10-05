@@ -1,4 +1,4 @@
-# Presentación
+## Presentación
 Soy Leonel Fortunato Lizarbe Almeyda, estudiante de Computación Científica. Este proyecto tiene el propósito de compartir mis conocimientos y facilitar el entendimiento de las EDOs.
 
 ## Descripción del Proyecto
