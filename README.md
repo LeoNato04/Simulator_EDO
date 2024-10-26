@@ -8,6 +8,9 @@ La aplicación proporciona una bienvenida inicial y permite a los usuarios naveg
 - [Dash](https://dash.plotly.com/) - Framework para construir aplicaciones web analíticas.
 - [Plotly](https://plotly.com/python/) - Biblioteca para crear gráficos interactivos.
 - [NumPy](https://numpy.org/) - Biblioteca para cálculo numérico en Python.
+- [SciPy](https://scipy.org/) - Biblioteca para cálculos científicos y técnicos.
+- [Sympy](https://www.sympy.org/) - Biblioteca para matemáticas simbólicas en Python.
+
 
 ## Instalación
 Puede visualizar el proyecto y su progreso en mi github:
